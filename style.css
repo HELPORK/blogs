@@ -96,3 +96,30 @@ html, body {
     left: 6%;
    text-shadow: 7px  17px 6px  black;
 }
+
+.footer{
+    height: 60px ;
+    width: 100%;
+    background-color: black;
+    color: rgb(255, 244, 193);
+    display: flex;
+    padding: 5px;
+    font-size: 30px;
+   
+}
+.footer i{
+    font-size: 50px;
+    color: blueviolet;
+}
+.footer p{
+ margin-top: 5px;
+ margin-left: 4px;
+}
+
+.footer #insta,#youtube{
+    color: blueviolet;
+    margin-left: 40px;
+}
+.footer #insta{
+    margin-left: 300px;
+}
