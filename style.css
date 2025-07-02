@@ -2,8 +2,15 @@
  {
     padding: 0;
     margin: 0;
+   box-sizing: border-box;
 
 }
+html, body {
+  width: 720px;
+  height: 108%;
+  overflow-x: hidden; /* Hides horizontal scroll caused by overflow */
+}
+
 .a{
     background-color: yellow;
     width: 720px;
