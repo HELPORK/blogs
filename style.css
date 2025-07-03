@@ -9,6 +9,7 @@ html, body {
   width: 720px;
   height: 160%;
   overflow-x: hidden; /* Hides horizontal scroll caused by overflow */
+   scroll-behavior: smooth;
 }
 
 .a{
